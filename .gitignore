@@ -1,0 +1,10 @@
+
+/ac-library
+/test
+/.vscode
+
+# tessoku/以下のすべてを無視
+/tessoku/*
+
+# ただし、.cppファイルは例外として追跡
+!/tessoku/*.cpp
